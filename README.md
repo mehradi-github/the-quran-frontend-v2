@@ -45,7 +45,7 @@ The Quran is a Message from Allah to humanity. This message was given to the Pro
 For more information see the [Wikipedia](https://en.wikipedia.org/wiki/Quran).
 
 ## Getting Started
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://create-react-app.dev/docs/adding-typescript).
 
   - Ensure you have [nodejs] installed
   - Get the source by running `git clone https://github.com/mehradi-github/the-quran-frontend-v2/` or creating a [fork]
