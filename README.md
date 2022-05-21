@@ -89,15 +89,15 @@ The Quran is released under the terms of the GNU General Public License v3.0 . f
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/the-quran/the-quran-frontend?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/mehradi-github/the-quran-frontend-v2?style=for-the-badge
 [contributors-url]: https://github.com/mehradi-github/the-quran-frontend-v2/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/the-quran/the-quran-frontend?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/mehradi-github/the-quran-frontend-v2?style=for-the-badge
 [forks-url]: https://github.com/mehradi-github/the-quran-frontend-v2/network/members
-[stars-shield]: https://img.shields.io/github/stars/the-quran/the-quran-frontend?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/mehradi-github/the-quran-frontend-v2?style=for-the-badge
 [stars-url]: https://github.com/mehradi-github/the-quran-frontend-v2/stargazers
-[issues-shield]: https://img.shields.io/github/issues/the-quran/the-quran-frontend?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/mehradi-github/the-quran-frontend-v2?style=for-the-badge
 [issues-url]: https://github.com/mehradi-github/the-quran-frontend-v2/issues
-[license-shield]: https://img.shields.io/github/license/the-quran/the-quran-frontend?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/mehradi-github/the-quran-frontend-v2?style=for-the-badge
 [license-url]: https://opensource.org/licenses/GPL-3.0
 [product-screenshot]: images/screenshot.png
 
