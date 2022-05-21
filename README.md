@@ -48,7 +48,7 @@ For more information see the [Wikipedia](https://en.wikipedia.org/wiki/Quran).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
   - Ensure you have [nodejs] installed
-  - Get the source by running `git clone https://github.com/the-quran/the-quran-frontend/` or creating a [fork]
+  - Get the source by running `git clone https://github.com/mehradi-github/the-quran-frontend-v2/` or creating a [fork]
   - Run `npm install` to do first time installation of all dependencies
 
 In the project directory, you can run:
@@ -90,13 +90,13 @@ The Quran is released under the terms of the GNU General Public License v3.0 . f
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/the-quran/the-quran-frontend?style=for-the-badge
-[contributors-url]: https://github.com/the-quran/the-quran-frontend/graphs/contributors
+[contributors-url]: https://github.com/mehradi-github/the-quran-frontend-v2/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/the-quran/the-quran-frontend?style=for-the-badge
-[forks-url]: https://github.com/the-quran/the-quran-frontend/network/members
+[forks-url]: https://github.com/mehradi-github/the-quran-frontend-v2/network/members
 [stars-shield]: https://img.shields.io/github/stars/the-quran/the-quran-frontend?style=for-the-badge
-[stars-url]: https://github.com/the-quran/the-quran-frontend/stargazers
+[stars-url]: https://github.com/mehradi-github/the-quran-frontend-v2/stargazers
 [issues-shield]: https://img.shields.io/github/issues/the-quran/the-quran-frontend?style=for-the-badge
-[issues-url]: https://github.com/the-quran/the-quran-frontend/issues
+[issues-url]: https://github.com/mehradi-github/the-quran-frontend-v2/issues
 [license-shield]: https://img.shields.io/github/license/the-quran/the-quran-frontend?style=for-the-badge
 [license-url]: https://opensource.org/licenses/GPL-3.0
 [product-screenshot]: images/screenshot.png
